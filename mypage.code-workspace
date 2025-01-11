@@ -1,8 +1,12 @@
 {
-    "folders": [
-        {
-            "path": ".git"
-        }
-    ],
-    "settings": {}
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"name": "mixwent.github.io",
+			"path": "."
+		}
+	],
+	"settings": {}
 }
