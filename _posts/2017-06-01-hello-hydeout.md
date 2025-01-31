@@ -1,21 +1,16 @@
 ---
 layout: post
-title: Hello Hydeout
+title: Hello. World!
+I'm Micaela.
 excerpt_separator:  <!--more-->
 ---
 
-Hydeout updates the original [Hyde](https://github.com/poole/hyde)
-theme for [Jekyll](http://jekyllrb.com) 3.x and 4.x and adds new functionality.
+I design digital products, write code and run long-distance while I finish my BSc in Computing.
+All the while I have a gorgeous one-eared cat named Potlood whom I love endlessly. He says "Hi!" by the way!
 
 ### Keep It Simple
 
-In keeping with the original Hyde theme, Hydeout aims to keep the overall
-design lightweight and plugin-free. JavaScript is currently limited only
-to Disqus and Google Analytics (and is only loaded if you provide configuration
-variables).
-
-Hydeout makes heavy use of Flexbox in its CSS. If Flexbox is not available,
-the CSS degrades into a single column layout.
+I graduated with a BA Hons in Fine Art in 2020 and began my career managing design projects for companies like BMW South Africa. After working as an Operations Manager in the art world, my passion for creation led me to web design and programming. I returned to study Computing, and have not looked back since!
 
 ### Customization
 
