@@ -1,7 +1,7 @@
 ---
-layout: post
-title: Hello. World!
-I'm Micaela.
+layout: page
+title: "Hello. World!
+I'm Micaela."
 excerpt_separator:  <!--more-->
 ---
 
