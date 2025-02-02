@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Hello. World!
-I'm Micaela."
+page-title: Hello. World!
+I'm Micaela.
 excerpt_separator:  <!--more-->
 ---
 
