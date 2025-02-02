@@ -5,7 +5,7 @@ I'm Micaela.
 excerpt_separator:  <!--more-->
 ---
 
-I design digital products, write code and run long-distance while I finish my BSc in Computing.
+meow I design digital products, write code and run long-distance while I finish my BSc in Computing.
 All the while I have a gorgeous one-eared cat named Potlood whom I love endlessly. He says "Hi!" by the way!
 
 ### Keep It Simple
