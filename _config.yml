@@ -4,7 +4,7 @@ highlighter:      rouge
 
 # Setup
 title:            Micaela Rose
-tagline:          wannabe dec
+tagline:          wannabe dev
 description:      'The <a href="http://hyde.getpoole.com" target="_blank">Hyde</a> theme for <a href="http://jekyllrb.com" target="_blank">Jekyll</a>, refreshed.'
 url:              https://github.com/mixwent/mixwent.github.io
 baseurl:          ''
